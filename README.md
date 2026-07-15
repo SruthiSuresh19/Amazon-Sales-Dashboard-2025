@@ -1,0 +1,2 @@
+# Amazon-Sales-Dashboard-2025
+Built an Excel dashboard to analyze Amazon sales performance using Pivot Tables, Charts, Slicers, and KPIs. The dashboard tracks revenue, orders, product categories, monthly trends, and category wise sales, payment method analysis, and brand wise sales enabling quick business insights through interactive filtering
